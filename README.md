@@ -1,7 +1,7 @@
 # Proyecto en Java Web usando Hibernate, JSF y PimerFaces MySql 
 Desarrollo de software empresarial
 # Integrantes
-Grupo: **02T**    
+Grupo: **02L**    
 FM140272 - Kevin René Fuentes Molina  
 RM140115 - Josué Adalberto Rodríguez Madrid
 # Instrucciones
